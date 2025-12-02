@@ -1,3 +1,5 @@
-# Резюме Ивана Попова
+## 📄 Предпросмотр резюме
 
-📄 **[Просмотреть резюме в PDF](https://github.com/ICGD1ce0ne/IvanPopovResume/raw/main/Popov%20Ivan.pdf)**
+<iframe src="https://icgd1ce0ne.github.io/IvanPopovResume/" width="100%" height="600"></iframe>
+
+[📥 Скачать PDF](Ivan_Popov_Resume.pdf)
